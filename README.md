@@ -1,19 +1,18 @@
 # Cee-lo
 ## Introductiction
-This is an anlysis of a Cee-lo dice game. 
+There are many different dice games.
 
-There are many different dice games. 
 ## About
-  Cee-lo is a gambling game played with three six-sided
+Cee-lo is a gambling game played with three six-sided
 dice. There is not one standart set of rules, but there
 are some constants that are hold true all the time, one
 of which is the number fo dice - three. [Wikipedia](https://en.wikipedia.org/wiki/Cee-lo)
 
-  This specific implementation focuses on the Cee-lo
+This specific implementation focuses on the Cee-lo
 without a bank (Winner Take All). 
 
 ## Rules
-  In this version of the game, each round involves two or
+In this version of the game, each round involves two or
 more players of equal status. A bet is agreed upon and
 each player puts that amount in the pile or pot. Each
 player then has to roll a three dice at once, if a
@@ -27,9 +26,14 @@ players add the bet to the pot and round starts over.
 If none roll a winning combination, eligible player takes
 the pot.  
 
-# Interesting questions
+## Interesting questions
+There
 - How long does it take to win a pot?
 - What is the average winning pot size?
+### How long does it take to win a pot?
+![Plot 1](plot_time.png)
+### What is the average winning pot size?
+![Plot 2](plot_pot.png)
 
 # Probabilities
 With three six-sided dice there are 6 * 6 * 6 = 216
@@ -37,4 +41,4 @@ possible permutations.
 
 4-5-6: 6/216 = 2.8%  
 Trips: 6/216 = 2.8%  
-![Plot 1](plot_pot.png)
+
