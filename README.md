@@ -31,7 +31,8 @@ There
 - How long does it take to win a pot?
 - What is the average winning pot size?
 ### How long does it take to win a pot?
-![Plot 1](plot_time.png)
+![Plot 1](plot_time.png
+This graph illustrates the dependecy between the number of players and the average time length of the round. It is reasonable to assume that as the number of players incearses, the time to complete a round would grow exponentially.
 ### What is the average winning pot size?
 ![Plot 2](plot_pot.png)
 
