@@ -27,14 +27,16 @@ If none roll a winning combination, eligible player takes
 the pot.  
 
 ## Interesting questions
-There are many different questions that can be adressed about this game, for example:
+There are many different questions that can be adressed about this game, some of which are:
 - How long does it take to win a pot?
 - What is the average winning pot size?
+Note that in order to anwsers them, we need to know, what time on average does a player take to make a turn and what is the bet. 
 ### How long does it take to win a pot?
 ![Plot 1](plot_time.png)
-This graph illustrates the dependecy between the number of players and the average time length of the round. It is reasonable to assume by looking at the graph that as the number of players incearses, the time to complete a round would grow exponentially.
+This graph illustrates the dependecy between the number of players and the average time length of the round. Real-life experiemtns showed that a player takes in average 15 seconds to complete a turn. This time in held constant in this simulation. Average time is calculated by simulating 1000 rounds of the game. It is reasonable to assume by looking at the graph that as the number of players incearses, the time to complete a round would grow exponentially.  
+
 ### What is the average winning pot size?
 ![Plot 2](plot_pot.png)
-This graph depicts the dependecy between the number of players and the average average winning pot size. It is reasonable to assume that as the number of players incearses, the time to complete a round would grow exponentially.
+This graph depicts the dependecy between the number of players and the average average winning pot size. Note that for It is reasonable to assume that as the number of players incearses, the time to complete a round would grow exponentially.
 
 
