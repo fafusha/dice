@@ -1,6 +1,6 @@
 # Cee-lo
 ## Introductiction
-There are many different dice games. Si,ulate games with python. Allows to play thousand of rounds in seconds
+There are many different dice games. Sometimes it takes many hours to finish the game. Computers allow us to play thousand of rounds of these dice games in the matter of seconds. This allows us to identify interseting features and traits about these games. These traits include: the number of turns it takes to play the round or the number of rounds it takes to have one player standing. Cee-lo is an interesting example of a dice game, it might consume players for the entire night, but with help of computers we can speed this porcess up.
 
 ## About
 Cee-lo is a gambling game played with three six-sided
