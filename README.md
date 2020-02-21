@@ -25,9 +25,9 @@ players add the bet to the pot and round starts over.
 If none roll a winning combination, eligible player takes
 the pot.  
 
-# Interesting question
+# Interesting questions
 - How long does it take to win a pot?
-- Average winning pot size?
+- What is the average winning pot size?
 
 # Probabilities
 With three six-sided dice there are 6 * 6 * 6 = 216
