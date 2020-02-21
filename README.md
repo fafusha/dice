@@ -29,7 +29,7 @@ the pot.
 ## Interesting questions
 There are many different questions that can be adressed about this game, some of which are:
 - How long does it take to win a pot?
-- What is the average winning pot size?
+- What is the average winning pot size?  
 Note that in order to anwsers them, we need to know, what time on average does a player take to make a turn and what is the bet. 
 ### How long does it take to win a pot?
 ![Plot 1](plot_time.png)
