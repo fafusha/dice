@@ -10,7 +10,7 @@ fig = plt.figure()
 plt.yticks(np.arange(0, 5, step=0.5))
 plt.bar(x_val, avg_pot, color='grey', edgecolor = 'black')
 
-plt.title('Average size of the winning per number of players in the game')
+plt.title('Average size of the winning pot per number of players in the game')
 plt.xlabel('Players')
 plt.ylabel('Winning Pot, Dollars')
 
