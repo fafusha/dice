@@ -31,7 +31,8 @@ the pot.
 
 # Probabilities
 With three six-sided dice there are 6 * 6 * 6 = 216
-possible permutations.
+possible permutations.  
 
-4-5-6: 6/216 = 2.8%
-Trips: 6/216 = 2.8%
+4-5-6: 6/216 = 2.8%  
+Trips: 6/216 = 2.8%  
+![Plot 1](plot_pot.png)
