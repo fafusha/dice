@@ -1,7 +1,7 @@
 # Introductiction
 This is an anlysis of a Cee-lo dice game. 
 
-There are many different dice games
+There are many different dice games. 
 
 # About Cee-lo
   Cee-lo is a gambling game played with three six-sided
