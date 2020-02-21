@@ -32,9 +32,10 @@ There
 - What is the average winning pot size?
 ### How long does it take to win a pot?
 ![Plot 1](plot_time.png)
-This graph illustrates the dependecy between the number of players and the average time length of the round. It is reasonable to assume that as the number of players incearses, the time to complete a round would grow exponentially.
+This graph illustrates the dependecy between the number of players and the average time length of the round. It is reasonable to assume by looking at the graph that as the number of players incearses, the time to complete a round would grow exponentially.
 ### What is the average winning pot size?
 ![Plot 2](plot_pot.png)
+This graph depicts the dependecy between the number of players and the average average winning pot size. It is reasonable to assume that as the number of players incearses, the time to complete a round would grow exponentially.
 
 # Probabilities
 With three six-sided dice there are 6 * 6 * 6 = 216
