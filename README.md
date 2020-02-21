@@ -1,11 +1,11 @@
 # dice
 Analysis of Cee-lo game
 
-# About
+# About Cee-lo
 Cee-lo is a gambling game played with three six-sided
 dice. There is not one standart set of rules, but there
 are some constants that are hold true all the time, one
-of which is the number fo dice - three.  
+of which is the number fo dice - three. [Wikipedia](https://en.wikipedia.org/wiki/Cee-lo)
 
 This specific implementation focuses on the Cee-lo
 without a bank (Winner Take All). 
