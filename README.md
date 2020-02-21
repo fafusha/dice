@@ -3,7 +3,7 @@ This is an anlysis of a Cee-lo dice game.
 
 There are many different dice games. 
 # Cee-lo
-## About Cee-lo
+## About
   Cee-lo is a gambling game played with three six-sided
 dice. There is not one standart set of rules, but there
 are some constants that are hold true all the time, one
