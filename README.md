@@ -11,7 +11,7 @@ This specific implementation focuses on the Cee-lo
 without a bank (Winner Take All). 
 
 # Rules
-In this version of the game, each round involves two or
+ In this version of the game, each round involves two or
 more players of equal status. A bet is agreed upon and
 each player puts that amount in the pile or pot. Each
 player then has to roll a three dice at once, if a
