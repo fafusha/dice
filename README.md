@@ -38,6 +38,6 @@ This graph illustrates the dependecy between the number of players and the avera
 
 ### What is the average winning pot size?
 ![Plot 2](plot_pot.png)
-This graph depicts the dependecy between the number of players and the average average winning pot size. For this game player bet is held consant at 0.05$. Average winning pot is calculated by simulating 1000 rounds of the game and caculating the mean value of it. By looking at the graph it is safe to assume that as the number of players incearses, the size of the winning pot would grow exponentially.
+This graph depicts the dependecy between the number of players and the average winning pot size. For this game player bet is held constant at 0.05$. Average winning pot is calculated by simulating 1000 rounds of the game and calculating the mean value of it. By looking at the graph it is safe to assume that as the number of players incearses, the size of the winning pot would grow exponentially.
 
 
