@@ -9,7 +9,7 @@ are some constants that are hold true all the time, one
 of which is the number fo dice - three. [Wikipedia](https://en.wikipedia.org/wiki/Cee-lo)
 
 This specific implementation focuses on the Cee-lo
-without a bank (Winner Take All). 
+without a bank (Winner Takes All). 
 
 ## Rules
 In this version of the game, each round involves two or
