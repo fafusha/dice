@@ -16,7 +16,7 @@ In this version of the game, each round involves two or
 more players of equal status. A bet is agreed upon and
 each player puts that amount in the pile or pot. Each
 player then has to roll a three dice at once, if a
-player rolls one of the winning combinations in this case
+player rolls one of the winning combinations in this case exactly
 *4-5-6* or *trips* (three same numbers), that player is
 eligible to claim the pot. If one the players is eligible
 to claim the pot all other players have to roll the rice.
