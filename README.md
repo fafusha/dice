@@ -27,7 +27,7 @@ If none roll a winning combination, eligible player takes
 the pot.  
 
 ## Interesting questions
-There
+There are many different questions that can be adressed about this game, for example:
 - How long does it take to win a pot?
 - What is the average winning pot size?
 ### How long does it take to win a pot?
