@@ -36,10 +36,10 @@ Note that in order to anwsers these questions, we need to know, what time on ave
 ![Plot 1](plot_time.png)
 This graph illustrates the dependecy between the number of players and the average time length of the round. Real-life experiments showed that a player takes on average 15 seconds to complete a turn. This turn time in held constant in this simulation. Average time is calculated by simulating 1000 rounds of the game and caculating the mean value. It is reasonable to assume by looking at the graph that as the number of players incearses, the time to complete a round would grow exponentially.  
 
-(Add table with avg turns, instead of times)
-
 ### What is the average winning pot size?
 ![Plot 2](plot_pot.png)
 This graph depicts the dependecy between the number of players and the average winning pot size. For this game player bet is held constant at 0.05$. Average winning pot is calculated by simulating 1000 rounds of the game and calculating the mean value of it. By looking at the graph it is safe to assume that as the number of players incearses, the size of the winning pot would grow exponentially.
+
+## Appendix
 
 
